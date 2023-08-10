@@ -1,0 +1,19 @@
+.sidebar_container {
+    width: 64px;
+    height: 900px;
+    background: #003367;
+    display: flex; 
+    flex-direction: column;
+}
+
+.menu_icon {
+    margin:20px;
+}
+
+.schedule_icon {
+    margin:18px 20px;
+}
+
+.patient_icon{
+    margin: 26px 20px;
+}

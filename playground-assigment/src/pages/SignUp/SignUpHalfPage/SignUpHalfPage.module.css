@@ -1,0 +1,21 @@
+.half_page_container{
+    width: 800px;
+    height: 900px;
+    flex-shrink: 0;
+    background: #F5F6F7;
+}
+
+.logo{
+    padding-top: 196px;
+    margin-left: 215px;
+    width: 370px;
+    height:32px;
+}
+
+.sign_up_cover{
+    margin-left: 122px;
+    margin-top: 47px;
+    margin-bottom:170px;
+    width: 598px;
+    height: 455px;
+    }
