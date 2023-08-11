@@ -1,0 +1,31 @@
+.dashbpoard_container{
+    display:flex;
+    flex-direction: row;
+}
+
+.dashboard_logo_container{
+    margin-left:476px;
+    margin-top:146px;
+}
+
+h2{
+    color: #003367;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; 
+    text-transform: uppercase;
+}
+
+.edit_profile_button{
+    margin-left: 147px;
+}
+
+.logout_button{
+    margin-left: 252px;
+    margin-top:16px;
+}
+
